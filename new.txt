@@ -1,0 +1,1 @@
+1. express-validator-> it is going to validate request to the application, basically the payload of the request
